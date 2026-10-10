@@ -1,0 +1,11 @@
+{
+  "name": "plain-calculator",
+  "version": "1.0.0",
+  "description": "A tiny HTML/CSS/JS calculator with a tested expression evaluator.",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "start": "node serve.js"
+  },
+  "license": "MIT"
+}
